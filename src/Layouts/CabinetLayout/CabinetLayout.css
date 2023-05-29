@@ -1,0 +1,18 @@
+.cabinet-layout {
+    height: 100vh;
+
+    & .title {
+        margin-top: 0;
+    }
+
+    & .header {
+        padding: 0;
+    }
+
+    & .content {
+        margin: 24px 16px;
+        padding: 24;
+        min-height: 280;
+        overflow: auto;
+    }
+}

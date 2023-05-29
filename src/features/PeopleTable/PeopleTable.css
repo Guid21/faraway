@@ -1,0 +1,9 @@
+.table {
+    & .ant-table-content {
+        overflow: auto;
+    }
+
+    & .active-search-outlined {
+        color: #1677ff;
+    }
+}

@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Field renders correctly 1`] = `
+<div>
+  <div>
+    <div>
+      <span
+        class="ant-typography ant-typography-secondary css-dev-only-do-not-override-w8mnev"
+      >
+        title
+      </span>
+    </div>
+    <div>
+      content
+    </div>
+  </div>
+</div>
+`;
